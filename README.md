@@ -34,16 +34,12 @@ cd RegistryApp-backend/functions
 npm i
 ```
 
-## Setting up Firebase
-
-To successfully build and use the app, Firebase SDKs must be initialised and included in the project. To do so, please follow the steps shown in the [Firebase Configuration Guide](FIREBASE-CONFIG.md).
-
 # Setting up Firebase
 
 To integrate Firebase with the app, you first have to go to the [Firebase Console](https://console.firebase.google.com/), and login if prompted, 
 then follow these steps:
 
-## Step 1. Create a new FIrebase project
+## Step 1. Create a new Firebase project
 
 <img width="1535" alt="Create new project" src="https://user-images.githubusercontent.com/37547839/202476627-62d6cfc0-78e4-4269-b585-b26d5c2be5da.png">
 <img width="1550" alt="Add new project name" src="https://user-images.githubusercontent.com/37547839/202478992-537b29fe-6d01-4896-b8df-e158ded89664.png">
